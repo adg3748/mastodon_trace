@@ -1,0 +1,15 @@
+current directory: /Users/lilpacy/projects/mastodon_trace/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180703-45586-11d0utd.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lilpacy/projects/mastodon_trace/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/lilpacy/projects/mastodon_trace/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/lilpacy/projects/mastodon_trace/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20180703-45586-i6uxhd/bootsnap
